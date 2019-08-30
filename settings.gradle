@@ -1,0 +1,3 @@
+rootProject.name = 'Greenhouse3'
+enableFeaturePreview('GRADLE_METADATA')
+
